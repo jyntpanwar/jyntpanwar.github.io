@@ -1,10 +1,3 @@
-
----
-layout: home
-title: Jayant Panwar
-subtitle: Full Stack Software Engineer & Technical Leader
----
- 
 # About Me
  
 I'm a Full Stack Software Engineer and Technical Leader with 9.5+ years of experience designing, developing, and maintaining scalable web applications using Java, Spring Boot, React, and both relational and NoSQL databases. I specialize in REST API design, microservices, OAuth2 security, micro-frontends, and cloud-native delivery.
@@ -30,3 +23,7 @@ Based in India.
 **Practices:** Agile, Scrum (Scrum Master), CI/CD, GenAI-Assisted Development (GitHub Copilot, Cursor, Claude)
  
 **Cloud & Tools:** Cloud-Native Architecture, JIRA, Firebase, Google Maps API, OpenLayers
+
+## Links
+ 
+- [GoF Design Patterns](https://jyntpanwar.github.io/gof-design-patterns/) — a reference implementation/walkthrough of the Gang of Four design patterns.
