@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jyntpanwar/jyntpanwar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jyntpanwar/jyntpanwar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+layout: home
+title: Jayant Panwar
+subtitle: Full Stack Software Engineer & Technical Leader
+---
+ 
+# About Me
+ 
+I'm a Full Stack Software Engineer and Technical Leader with 9.5+ years of experience designing, developing, and maintaining scalable web applications using Java, Spring Boot, React, and both relational and NoSQL databases. I specialize in REST API design, microservices, OAuth2 security, micro-frontends, and cloud-native delivery.
+ 
+I have a proven record of contributing in cross-functional Agile teams, modernizing legacy platforms, driving accessibility (WCAG 2.1 AA) compliance, and integrating GenAI-assisted development to accelerate delivery.
+ 
+Based in India.
+ 
+## Technical Skills
+ 
+**Languages:** Java, JavaScript, TypeScript, SQL, PL/SQL, HTML5, CSS3
+ 
+**Backend:** Spring Boot, Spring Core / Batch / Security, Spring Data, REST APIs, SOAP, JAX-RS, OAuth2, Microservices, GWT (Google Web Toolkit), Jetty, Apache Tomcat
+ 
+**Frontend:** React, Redux, Micro-Frontends, Web Components, Material UI (MUI), MUI X DataGrid, Syncfusion, Angular, Highcharts, Chart.js, D3.js, React Hook Form, Formik, Axios, Figma
+ 
+**Databases:** Oracle, MySQL, MongoDB (Spring Data MongoDB), Elasticsearch, Redis, Kafka
+ 
+**Testing:** JUnit, Mockito, Cucumber (BDD), Testcontainers, PowerMock, Test-Driven Development (TDD), JaCoCo
+ 
+**DevOps & Quality:** Docker, Jenkins, GitLab CI/CD, Maven, Git, Swagger / OpenAPI, SonarQube, SpotBugs, Checkstyle
+ 
+**Practices:** Agile, Scrum (Scrum Master), CI/CD, GenAI-Assisted Development (GitHub Copilot, Cursor, Claude)
+ 
+**Cloud & Tools:** Cloud-Native Architecture, JIRA, Firebase, Google Maps API, OpenLayers
